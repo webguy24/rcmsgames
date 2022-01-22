@@ -1,4 +1,10 @@
-h1 {
+#groupitems{
+  top: 0;
+  right:0; 
+  bottom: 0;
+  position:absolute;
+}
+/*h1 {
     text-align: center;
     color: darkslategray;
     font-family: Comfortaa;
@@ -32,7 +38,7 @@ h3 {
 }
 
 
-/* Make sure check that the classes are in the right spots */
+/* Make sure check that the classes are in the right spots
 
 a {
     font-size: 22px;
@@ -66,3 +72,4 @@ a.gameboy {
     font-size: 15px;
     color: darkblue;
 }
+*/
