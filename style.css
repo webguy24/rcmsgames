@@ -6,9 +6,10 @@
   vertical-align: top;
 }
 #darktoggle {
-  position:absolute;
-  right:0px;
-  bottom:0px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  position: sticky;
 }
 .darkmode {
   background-color: black;
