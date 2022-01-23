@@ -1,4 +1,21 @@
-h1 {
+.groups *{
+  padding: 0px;
+}
+.group{
+  font-weight: bold;
+  vertical-align: top;
+}
+#darktoggle {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  position: sticky;
+}
+.darkmode {
+  background-color: black;
+  color: white;
+}
+/*h1 {
     text-align: center;
     color: darkslategray;
     font-family: Comfortaa;
@@ -32,7 +49,7 @@ h3 {
 }
 
 
-/* Make sure check that the classes are in the right spots */
+/* Make sure check that the classes are in the right spots
 
 a {
     font-size: 22px;
@@ -66,3 +83,4 @@ a.gameboy {
     font-size: 15px;
     color: darkblue;
 }
+*/
