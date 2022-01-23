@@ -5,6 +5,15 @@
   font-weight: bold;
   vertical-align: top;
 }
+.darktoggle {
+  position:absolute;
+  right:0px;
+  bottom:0px;
+}
+.darkmode {
+  background-color: black;
+  color: white;
+}
 /*h1 {
     text-align: center;
     color: darkslategray;
