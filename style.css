@@ -1,5 +1,9 @@
-#groups {
-  border:0px;
+.groups *{
+  padding: 0px;
+}
+.group{
+  font-weight: bold;
+  vertical-align: top;
 }
 /*h1 {
     text-align: center;
