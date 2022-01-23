@@ -1,8 +1,5 @@
-#groupitems{
-  top: 0;
-  right:0; 
-  bottom: 0;
-  position:absolute;
+#groups {
+  border:0px;
 }
 /*h1 {
     text-align: center;
