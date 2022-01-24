@@ -1,9 +1,10 @@
 .groups *{
   padding: 0px;
 }
-.group{
+.group {
   font-weight: bold;
   vertical-align: top;
+  text-align: right;
 }
 #darktoggle {
   position: absolute;
