@@ -1,4 +1,4 @@
-window.snake.more_menu = function(e) {
+
   e = e || 25;
   
   // micro
@@ -558,4 +558,3 @@ window.snake.more_menu = function(e) {
     };
     req.send();
   }
-};
