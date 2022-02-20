@@ -24,3 +24,7 @@ body {
   font-family: "Noto Sans";
   margin:0;
 }
+
+a {
+    color: #3391ff;
+}
