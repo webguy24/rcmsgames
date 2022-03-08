@@ -1,5 +1,4 @@
 localStorage.clear();
-document.cookie="";
 function shuffle(array) {
   let currentIndex = array.length,  randomIndex;
 
